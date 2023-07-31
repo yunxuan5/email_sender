@@ -1,8 +1,8 @@
-# description
+# Description
 Email auto reply helper
  
-# files
+# Files
 put the attached files in file folder, change the user name and password in config.ini
 
-# how to use
+# How to use
 cmd on current folder, execute ./send.py
